@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "kokomi.js": "^1.9.98",
     "three": "^0.163.0",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"

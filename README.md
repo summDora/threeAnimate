@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+```sh
+实例
+https://github.com/alphardex/su7-replica.git
+```

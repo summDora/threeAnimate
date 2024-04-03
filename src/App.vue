@@ -11,6 +11,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       <RouterLink to="/canvas">Mi</RouterLink>
       <RouterLink to="/lines">Lines</RouterLink>
       <RouterLink to="/mimodel">MiModel</RouterLink>
+      <RouterLink to="/mimodelkokomi">KoKoMi</RouterLink>
     </nav>
 
     <RouterView />

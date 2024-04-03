@@ -33,9 +33,9 @@ const router = createRouter({
       component: () => import('../views/MiModel.vue')
     },
     {
-      path: '/lines',
-      name: 'lines',
-      component: () => import('../views/DrawLines.vue')
+      path: '/mimodelkokomi',
+      name: 'mimodelkokomi',
+      component: () => import('../views/MiModelKokomi.vue')
     },
     {
       path: '/lines',
